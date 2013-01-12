@@ -1,4 +1,5 @@
-Bootstrap-Tour
-==============
+Demo and Documentation:
+http://pushly.github.com/bootstrap-tour/
 
-Step guide through the site
+TODO:
+Add "index" option to identify each step instead of using integers
